@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1761305799799",
+    "email": "test",
+    "password": "$2b$10$iAsVzZrZpRP5HNvxQaBnZe54TE1x8mrQqV5d5HGSDOSfZqI3kjm1O"
+  },
+  {
+    "id": "1761314603516",
+    "email": "tesra",
+    "password": "$2b$10$h9uS/1VdF2oieIwQQ7AWfeTRnNiI4Dd1419Yej0rGAp3d0R0cKov."
+  },
+  {
+    "id": "1761334314262",
+    "email": "data",
+    "password": "$2b$10$8HImTOr6pV29Ymln0k0QjOgqmTGpFfC3RIYXsaXyoFlRcEZHQ5CrK"
+  }
+]
